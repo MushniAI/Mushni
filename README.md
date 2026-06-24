@@ -1,118 +1,96 @@
 # Mushni AI
 
-Mushni is an AI creative platform for stories, comics, images, videos, and creator workflows.
+Mushni is an AI creative platform for creators who build stories, comics, images, videos, games, and repeatable production workflows.
 
-## What is Mushni?
+This repository is the public resource hub for Mushni. It collects practical creator templates, workflow notes, prompt patterns, and documentation for building AI-assisted creative projects in a responsible way.
 
-Mushni helps creators build AI-powered content workflows, including:
+## What You Can Find Here
 
-- AI story generation
-- AI comic creation
-- AI image generation
-- AI video workflows
-- Character consistency
-- Storyboard generation
-- Multilingual creative publishing
-- Creator automation tools
+- Creator workflow guides for stories, comics, images, and videos
+- Reusable templates for characters, story outlines, and storyboard planning
+- Prompt patterns for character consistency and production handoff
+- Notes for responsible AI content creation and platform compliance
+- Roadmap items for future public documentation and examples
 
-## Main Products
+## Product Links
 
-- Main Site: https://mushni.com
-- Novel Platform: https://novelai.one
-- Image Platform: https://imgai.one
-- Video Platform: https://hiai.one
-- Game Platform: https://gamexai.one
+- Main site: https://mushni.com
+- Novel platform: https://novelai.one
+- Image platform: https://imgai.one
+- Video platform: https://hiai.one
+- Game platform: https://gamexai.one
+
+## Repository Structure
+
+```text
+docs/       Public documentation and workflow notes
+examples/   Example production workflows
+templates/  Reusable creator templates
+prompts/    Prompt patterns and reusable prompt blocks
+```
+
+## Quick Start
+
+1. Read the [getting started guide](docs/getting-started.md).
+2. Choose a workflow from [examples](examples/README.md).
+3. Copy a template from [templates](templates).
+4. Adapt the prompt patterns in [prompts](prompts/README.md).
+5. Keep human review in the loop before publishing any AI-assisted work.
 
 ## Use Cases
 
-Mushni can be used for:
-
-- AI novel production
+- AI novel planning and drafting
 - AI comic production
-- AI short drama planning
-- AI character design
-- AI storyboard creation
-- AI creator workflow automation
-- Multilingual content publishing
+- Character design and continuity tracking
+- Storyboard and short video planning
+- Multilingual creative publishing
+- Creator workflow automation
 
 ## Roadmap
 
-- [ ] Public documentation
-- [ ] Creator templates
+- [x] Public resource hub structure
+- [x] Creator templates
+- [x] Story and comic workflow examples
+- [x] Character consistency prompt patterns
 - [ ] ComfyUI workflow examples
 - [ ] API examples
-- [ ] Character consistency guides
-- [ ] AI comic production guides
-- [ ] AI video workflow guides
+- [ ] Video workflow guides
+- [ ] More multilingual publishing notes
 
 ## Safety and Compliance
 
-Mushni is designed for responsible AI content creation. Some features may be age-restricted depending on local laws, platform rules, and content policies.
+Mushni is designed for responsible AI-assisted creation. Creators should review generated output before use, respect intellectual property rights, follow local laws, and comply with the rules of the platforms where content is published.
 
-## Website
+See [Safety and Compliance](docs/safety-and-compliance.md) for practical guidelines.
 
-Visit Mushni: https://mushni.com
+## Contributing
 
+Ideas, examples, and workflow improvements are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
 
+## 中文介绍
 
-```markdown
----
+Mushni AI 是一个面向创作者的 AI 创意平台，适用于小说、漫画、图片、视频、游戏和创作工作流。
 
-# 中文介绍
+这个仓库不是广告页，而是 Mushni 的公开资源中心。这里会整理创作者模板、创作流程、提示词模式、角色一致性方法和负责任 AI 创作说明，帮助创作者更稳定地完成从灵感到成品的工作。
 
-## Mushni AI 是什么？
+### 这里有什么
 
-Mushni AI 是一个面向创作者的 AI 创意平台，适用于小说、漫画、图片、视频和创作工作流程。
+- 小说、漫画、图片、视频相关的创作流程
+- 角色卡、故事大纲、分镜规划等可复用模板
+- 角色一致性和创作交接提示词
+- AI 内容安全、合规和人工审核建议
+- 后续公开文档和示例的路线图
 
-Mushni 希望帮助创作者更高效地完成从灵感、故事、大纲、角色、分镜、图片到视频的完整 AI 创作流程。
-
-## 核心功能
-
-- AI 小说生成
-- AI 漫画创作
-- AI 图片生成
-- AI 视频工作流
-- 角色一致性管理
-- 分镜脚本生成
-- 多语言内容发布
-- 创作者自动化工具
-
-## 主要产品
-
-- 主站：https://mushni.com
-- 小说平台：https://novelai.one
-- 图片平台：https://imgai.one
-- 视频平台：https://hiai.one
-- 游戏平台：https://gamexai.one
-
-## 适合哪些人使用？
-
-Mushni AI 适合：
+### 适合谁
 
 - AI 小说创作者
 - AI 漫画创作者
-- AI 短剧创作者
 - 角色设计师
 - 分镜脚本创作者
+- AI 短剧和视频创作者
 - 多语言内容发布者
-- 想要自动化创作流程的个人或团队
+- 想要把创作流程自动化的个人或团队
 
-## 发展计划
+### 官网
 
-- [ ] 公开使用文档
-- [ ] 创作者模板
-- [ ] ComfyUI 工作流示例
-- [ ] API 示例
-- [ ] 角色一致性教程
-- [ ] AI 漫画制作教程
-- [ ] AI 视频工作流教程
-
-## 安全与合规
-
-Mushni AI 致力于负责任的 AI 内容创作。部分功能可能会根据当地法律、平台规则和内容政策进行年龄限制或访问限制。
-
-## 官网
-
-访问 Mushni：https://mushni.com
-```
-
+访问 Mushni: https://mushni.com

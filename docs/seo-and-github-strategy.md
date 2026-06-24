@@ -1,6 +1,6 @@
-# SEO and GitHub Strategy for Mushni
+# SEO and GitHub Content Strategy for Mushni
 
-This document explains how Mushni can use GitHub for commercial SEO and product education without turning the repository into a spam page.
+This document explains how Mushni can use GitHub as a public product education, documentation, and discovery channel.
 
 ## What This Repository Should Be
 
@@ -12,11 +12,11 @@ The repository should act as:
 - A template and prompt pattern library
 - A trust signal for the Mushni ecosystem
 
-It should not be positioned as a full open-source release of the platform.
+It is not positioned as a full open-source release of the commercial platform.
 
-## SEO Keywords to Use Naturally
+## SEO Phrases to Use Naturally
 
-Use these phrases inside helpful documentation, not as repeated keyword lists:
+Use these phrases inside helpful documentation, tutorials, and workflow explanations:
 
 - AI creator platform
 - AI story generator workflow
@@ -24,20 +24,19 @@ Use these phrases inside helpful documentation, not as repeated keyword lists:
 - AI comic creation workflow
 - AI image generation workflow
 - AI image-to-video workflow
-- character consistency prompt
-- storyboard generation workflow
-- interactive chat fiction
-- visual novel creation
-- creator automation tools
+- Character consistency prompt
+- Storyboard generation workflow
+- Interactive chat fiction
+- Visual novel creation
+- Creator automation tools
 
-## Safe GitHub Promotion Principles
+## Content Principles
 
-- Keep links relevant to Mushni products.
-- Publish tutorials, templates, and explanations instead of pure ads.
-- Avoid mass-posting links in unrelated repositories.
-- Avoid automated stars, follows, issues, comments, or pull requests.
-- Avoid creating many thin repositories with duplicate keywords.
+- Keep the repository useful for creators and new users.
+- Use product links where they help readers choose the right workflow.
+- Prefer tutorials, examples, templates, and product explanations.
 - Keep sensitive platform credentials out of public files.
+- Publish small, practical updates over time so the repository grows naturally.
 
 ## Recommended Content Calendar
 
@@ -50,16 +49,10 @@ Publish small useful updates over time:
 - Week 5: Image-to-video workflow guide
 - Week 6: Interactive chat fiction workflow guide
 
-Consistent useful updates are better than one large promotional push.
-
 ## Commercial Repository Positioning
 
 A good public sentence:
 
 > Mushni is a commercial AI creator platform; this repository provides public documentation, tutorials, workflow templates, and prompt patterns for the Mushni ecosystem.
 
-A risky public sentence:
-
-> This repository is only for promotion and keyword ranking.
-
-The first version is useful, transparent, and aligned with GitHub expectations. The second version looks like spam.
+This positioning is clear, useful, and professional. It tells visitors what the repository is for without implying that the private platform source code is open.

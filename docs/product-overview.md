@@ -78,7 +78,7 @@ GitHub can support commercial SEO without exposing source code. A public documen
 - Offer reusable creator templates
 - Document responsible AI publishing practices
 - Collect public feedback through issues
-- Link the product ecosystem in a structured, non-spammy way
+- Present the product ecosystem in a structured and useful way
 
 ## Recommended Public Positioning
 
@@ -92,4 +92,4 @@ Use broad, stable product language:
 - Interactive chat fiction platform
 - Creator automation tools
 
-Avoid using public GitHub pages as a place for aggressive advertising, unrelated keyword stuffing, or repeated promotional links.
+The strongest public positioning is clear, practical, and creator-focused. Product links should appear where they help readers understand the ecosystem or choose the right workflow.

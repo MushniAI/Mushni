@@ -10,4 +10,4 @@ This page lists the main Mushni product destinations.
 | HiAI.one | https://hiai.one | AI image-to-video and video generation workflows |
 | GameXAI.one | https://gamexai.one | Interactive chat fiction and playable story workflows |
 
-These links are related to the Mushni creative workflow ecosystem. This repository keeps promotional content limited to project-relevant context and focuses on documentation, tutorials, templates, and reusable creator resources.
+These links are part of the Mushni creative workflow ecosystem. This repository focuses on documentation, tutorials, templates, and reusable creator resources.

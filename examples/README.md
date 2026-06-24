@@ -6,10 +6,11 @@ This directory contains practical workflow examples for AI-assisted creative pro
 
 - [Novel Workflow](novel-workflow.md)
 - [Comic Workflow](comic-workflow.md)
+- [AI Image-to-Video Workflow](video-workflow.md)
+- [Interactive Chat Fiction Workflow](interactive-chat-workflow.md)
 
 ## Planned Examples
 
 - ComfyUI image workflow
-- Short video workflow
 - Character reference workflow
 - Multilingual publishing workflow

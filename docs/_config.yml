@@ -1,0 +1,7 @@
+title: Mushni AI Creator Platform
+description: AI stories, comics, images, videos, interactive fiction, and creator workflow documentation.
+url: https://mushniai.github.io
+baseurl: /Mushni
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag

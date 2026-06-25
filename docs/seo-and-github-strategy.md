@@ -1,3 +1,8 @@
+---
+title: SEO and GitHub Content Strategy for Mushni
+description: Public content strategy for Mushni documentation, tutorials, creator workflows, and product discovery.
+---
+
 # SEO and GitHub Content Strategy for Mushni
 
 This document explains how Mushni can use GitHub as a public product education, documentation, and discovery channel.

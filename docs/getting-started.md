@@ -1,3 +1,8 @@
+---
+title: Getting Started with Mushni
+description: Beginner guide for Mushni AI creator workflows across stories, comics, images, videos, and interactive fiction.
+---
+
 # Getting Started with Mushni
 
 This beginner guide explains how to understand Mushni and start an AI-assisted creative project without needing access to the private platform source code.

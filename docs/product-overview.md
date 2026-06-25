@@ -1,3 +1,8 @@
+---
+title: Mushni Product Overview
+description: Overview of the Mushni AI creator platform ecosystem, including NovelAI.one, ImgAI.one, HiAI.one, and GameXAI.one.
+---
+
 # Mushni Product Overview
 
 Mushni is a commercial AI creator platform built around a full creative production pipeline:

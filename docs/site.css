@@ -230,8 +230,7 @@ h3 {
 .workflow p,
 .tutorial-list span,
 .faq p,
-footer p,
-.two-column p {
+footer p {
   color: var(--muted);
 }
 
@@ -287,20 +286,64 @@ footer p,
   border-color: rgba(12, 124, 120, 0.45);
 }
 
-.two-column {
-  display: grid;
-  grid-template-columns: minmax(260px, 0.9fr) minmax(280px, 1fr);
-  gap: clamp(24px, 6vw, 80px);
-  align-items: center;
-}
-
-.two-column > * {
-  width: min(560px, 100%);
-}
-
 .faq {
   width: min(920px, 100%);
   margin: 0 auto;
+}
+
+.creator-value {
+  padding-top: clamp(46px, 6vw, 72px);
+  padding-bottom: clamp(46px, 6vw, 72px);
+}
+
+.section-heading.compact {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.82fr) minmax(300px, 1fr);
+  gap: clamp(24px, 5vw, 72px);
+  align-items: end;
+  margin-bottom: 28px;
+}
+
+.section-heading.compact .eyebrow {
+  grid-column: 1 / -1;
+  margin-bottom: -8px;
+}
+
+.section-heading.compact h2 {
+  font-size: clamp(1.9rem, 3.1vw, 2.7rem);
+}
+
+.section-heading.compact p {
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.value-grid {
+  display: grid;
+  width: min(1120px, 100%);
+  margin: 0 auto;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.value-grid div {
+  min-height: 142px;
+  padding: 22px;
+  border: 1px solid rgba(23, 33, 31, 0.08);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.58);
+}
+
+.value-grid strong {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 1.08rem;
+}
+
+.value-grid p {
+  margin-bottom: 0;
+  color: var(--muted);
 }
 
 details {
@@ -369,7 +412,8 @@ footer p {
 
   .product-grid,
   .workflow,
-  .two-column,
+  .section-heading.compact,
+  .value-grid,
   .tutorial-list a,
   footer {
     grid-template-columns: 1fr;

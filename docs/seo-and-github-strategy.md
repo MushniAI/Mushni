@@ -60,4 +60,4 @@ A good public sentence:
 
 > Mushni is a commercial AI creator platform; this repository provides public documentation, tutorials, workflow templates, and prompt patterns for the Mushni ecosystem.
 
-This positioning is clear, useful, and professional. It tells visitors what the repository is for without implying that the private platform source code is open.
+This positioning is clear, useful, and professional. It tells visitors how Mushni helps creators without distracting them with internal platform details.

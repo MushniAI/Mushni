@@ -11,7 +11,7 @@ Mushni is a commercial AI creator platform built around a full creative producti
 Idea -> Story -> Character -> Image -> Comic -> Video -> Interactive Experience -> Publishing
 ```
 
-The public GitHub repository explains the ecosystem and provides learning resources. It does not publish private source code, credentials, deployment details, or internal model orchestration.
+This overview explains the Mushni ecosystem and provides learning resources for creators, teams, and new users.
 
 ## Platform Modules
 
@@ -75,7 +75,7 @@ Website: https://gamexai.one
 
 ## Why GitHub Is Useful for Mushni
 
-GitHub can support commercial SEO without exposing source code. A public documentation repository can:
+GitHub can support commercial SEO through clear product education and useful creator resources. A public documentation repository can:
 
 - Explain the product clearly for search engines
 - Provide beginner tutorials

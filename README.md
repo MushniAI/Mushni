@@ -2,7 +2,7 @@
 
 Mushni is a commercial AI creator platform for building stories, comics, images, videos, interactive chat fiction, and repeatable creative production workflows.
 
-This repository is the public documentation and SEO resource hub for Mushni. It does not contain the private platform source code. Instead, it explains the product ecosystem, creator workflows, onboarding guides, prompt patterns, and responsible AI publishing practices.
+This repository is the public documentation and SEO resource hub for Mushni. It explains the product ecosystem, creator workflows, onboarding guides, prompt patterns, and responsible AI publishing practices.
 
 ## Product Ecosystem
 

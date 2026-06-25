@@ -5,13 +5,13 @@ description: Beginner guide for Mushni AI creator workflows across stories, comi
 
 # Getting Started with Mushni
 
-This beginner guide explains how to understand Mushni and start an AI-assisted creative project without needing access to the private platform source code.
+This beginner guide explains how to understand Mushni and start an AI-assisted creative project.
 
 ## What Mushni Is
 
 Mushni is an AI creator platform for planning, producing, and publishing creative projects across text, images, comics, videos, and interactive chat stories.
 
-The public GitHub repository is useful if you want to understand the workflows, templates, prompt patterns, and publishing concepts behind the Mushni ecosystem.
+These public guides are useful if you want to understand the workflows, templates, prompt patterns, and publishing concepts behind the Mushni ecosystem.
 
 ## 1. Start with a Clear Creative Goal
 
